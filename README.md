@@ -44,6 +44,7 @@ Só quem tem as chaves que geraram esse token podem validar ele e até gerar out
 - Crie uma branch com a sua feature: git checkout -b my-feature
 - Commit suas mudanças: git commit -m 'feat: My new feature'
 - Push a sua branch: git push origin my-feature
+- Deixe um star neste repositório
 
 ## 📝 Licença
 Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
