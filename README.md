@@ -8,14 +8,14 @@ como autenticar usando JSON WEB TOKEN o famoso JWT.
 ## 🚀 Tecnologias usadas
 Este maravilindo projeto foi desenvolvido com as seguintes tecnologias:
 
-+ Node.js
-+ jsonwebtoken
-+ Express
-+ Nodemon
-+ mongoose
-+ bcryptjs
-+ dotenv
-+ nodemon
+- [Node.js](https://nodejs.org/en/)
+- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+- [Express](https://expressjs.com/pt-br/)
+- [Nodemon](https://www.npmjs.com/package/nodemon)
+- [dotenv](https://www.npmjs.com/package/dotenv)
+- [bcryptjs](https://www.npmjs.com/package/bcryptjs)
+- [mongoose](https://www.npmjs.com/package/mongoose)
+- [@hapi/joi](https://www.npmjs.com/package/@hapi/joi)
 
 ## 💪 Projeto
 Objetivo é aprenderes de maneira simples vendo estas pequenas linha de código aplicando o JWT neste projeto,
